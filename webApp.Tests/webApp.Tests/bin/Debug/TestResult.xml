@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\webApp.Tests.dll" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-04-07" time="05:11:39">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8745" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="DESKTOP-NLEJDDG" user="Paul" user-domain="DESKTOP-NLEJDDG" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\webApp.Tests.dll" executed="True" result="Success" success="True" time="17.826" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="webApp" executed="True" result="Success" success="True" time="17.826" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="17.826" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="AllValidInfo" executed="True" result="Success" success="True" time="4.205" asserts="0">
+                <results>
+                  <test-case name="webApp.Tests.AllValidInfo.TheAllValidInfoTest" executed="True" result="Success" success="True" time="4.205" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="InvalidAddressInfo" executed="True" result="Success" success="True" time="3.196" asserts="0">
+                <results>
+                  <test-case name="webApp.Tests.InvalidAddressInfo.TheInvalidAddressInfoTest" executed="True" result="Success" success="True" time="3.196" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="InvalidPhoneInfo" executed="True" result="Success" success="True" time="3.191" asserts="0">
+                <results>
+                  <test-case name="webApp.Tests.InvalidPhoneInfo.TheInvalidPhoneInfoTest" executed="True" result="Success" success="True" time="3.189" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="MandatoryFieldsTest" executed="True" result="Success" success="True" time="2.940" asserts="0">
+                <results>
+                  <test-case name="webApp.Tests.MandatoryFieldsTest.TheMandatoryFieldsTest" executed="True" result="Success" success="True" time="2.940" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="ReturnPostPageTest" executed="True" result="Success" success="True" time="4.263" asserts="0">
+                <results>
+                  <test-case name="webApp.Tests.ReturnPostPageTest.TheReturnPostPageTest" executed="True" result="Success" success="True" time="4.262" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

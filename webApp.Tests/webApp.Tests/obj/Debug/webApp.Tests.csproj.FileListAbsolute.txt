@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\obj\Debug\webApp.Tests.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\webApp.Tests.dll
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\webApp.Tests.pdb
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\nunit.framework.dll
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\WebDriver.dll
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\nunit.framework.xml
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\WebDriver.xml
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\obj\Debug\webApp.Tests.dll
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\obj\Debug\webApp.Tests.pdb
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\WebDriver.Support.dll
+D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\WebDriver.Support.xml

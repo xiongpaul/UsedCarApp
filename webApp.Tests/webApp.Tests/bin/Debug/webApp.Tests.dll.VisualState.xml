@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\webApp.Tests.dll</TopNode>
+  <SelectedNode>[0-1000]webApp.Tests.AllValidInfo</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]D:\VisualStudioProjects\PXAssignment4\webApp.Tests\webApp.Tests\bin\Debug\webApp.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]webApp" Expanded="true" />
+    <Node UniqueName="[0-1012]webApp.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]webApp.Tests.AllValidInfo" Expanded="true" />
+    <Node UniqueName="[0-1002]webApp.Tests.InvalidAddressInfo" Expanded="true" />
+    <Node UniqueName="[0-1004]webApp.Tests.InvalidPhoneInfo" Expanded="true" />
+    <Node UniqueName="[0-1006]webApp.Tests.MandatoryFieldsTest" Expanded="true" />
+    <Node UniqueName="[0-1008]webApp.Tests.ReturnPostPageTest" Expanded="true" />
+  </Nodes>
+</VisualState>

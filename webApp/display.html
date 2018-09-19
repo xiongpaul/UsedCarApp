@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <title>PXAssignment4 - Display</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<h3>Seller Info</h3>
+	<script>
+		var make = localStorage.getItem("make");
+		var model = localStorage.getItem("model");
+		var year = localStorage.getItem("year");
+		var link = "http://www.jdpower.com/cars/" + make + "/" + model + "/" + year;
+		
+		document.write("<p>Name: " + localStorage.getItem("name") + "<br>");
+        document.write("Address: " + localStorage.getItem("address") + ", " + localStorage.getItem("city") + "<br>");
+		document.write("Email: " + localStorage.getItem("email") + "<br>");
+		document.write("Phone: " + localStorage.getItem("phone") + "<br></p>");
+		
+		document.write('<a href="' + link + '">Open J.D. Power page associated with this car</a>' + "<br><br>");
+		document.write('<a href="' + document.referrer + '">Return to post page</a>')
+	</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+    <title>PXAssignment4 - Posting</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="jscript.js"></script>
+	
+</head>
+
+<body>
+	<h3>Posting Information</h3>
+	
+	<form name="sellerForm" onsubmit="return validateForm()" action="display.html" method="post">
+		<label>Name:</label>
+		<input type="text" id="name" class="required" ></input><br>
+		
+		<label>Address:</label>
+		<input type="text" id="address" class="required" ></input><br>
+		
+		<label>City:</label>
+		<input type="text" id="city" class="required" ></input><br>
+		
+		<label>Phone:</label>
+		<input type="text" id="phone" class="required" ></input><br>
+		
+		<label>Email:</label>
+		<input type="text" id="email" class="required" ></input><br>
+		
+		<label>Make:</label>
+		<input type="text" id="make" class="required"></input><br>
+		
+		<label>Model:</label>
+		<input type="text" id="model" class="required"></input><br>
+		
+		<label>Year:</label>
+		<input type="text" id="year" class="required"></input><br>
+		
+		<button id="btnSubmit" onclick="validateForm();" >SUBMIT</button><br><br>
+	</form>
+</body>
+</html>
