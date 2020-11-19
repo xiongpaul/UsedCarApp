@@ -1,4 +1,4 @@
-This was the fourth and final assignment in my software quality assurance class form college.
+This was the fourth and final assignment in my software quality assurance class from college.
 
 This project features a very rudimentary and basic web app that served the purpose of a pseudo database of used car listings using HTML, JavaScript and CSS with input being handled by a web form. It would allow a user to enter information about their vehicle for sale then link the user and/or potential buyers to the associated JD Power and Associates page for that particular year, make and model of vehicle.
 
